@@ -110,6 +110,46 @@ also das sieht so aus, als kontrolliert dieser verlag die website buecher-von-eg
 
 
 
+## videos
+
+- https://www.youtube.com/results?search_query=Wolfgang+Eggert
+- https://odysee.com/$/search?q=Wolfgang%20Eggert
+- https://www.bitchute.com/search?query=Wolfgang+Eggert
+
+
+
+### videos 2016
+
+- [Der verratene Widerstand - Wolfgang Eggert. Der Wassermann Unzensiert (Freiheit und Wissen). 2016-07-12](https://www.youtube.com/watch?v=bLt6WJgurpc)
+
+
+
+### videos 2017
+
+- [Wolfgang Eggert bei Nina Hagen. RathausCafe. 2017-10-31](https://www.youtube.com/watch?v=jja6t9zTq5U)
+
+
+
+### videos 2018
+
+- [Die dunkle Macht - Wolfgang Eggert im Interview (2018). Welt der Freimaurer. 2020-06-04](https://www.youtube.com/watch?v=pCZrIt3mjTY)
+
+
+
+### videos 2024
+
+- [Im Gespräch: Wolfgang Eggert (Armageddon und Endzeitsekten im Nahen Osten). apolut. 2024-08-19](https://odysee.com/@apolut:a/4NyEGf35dHXHDuoA6FXsE6:7)
+- [Im Gespräch mit Wolfgang Eggert. NuoFlix. 2024-08-21](https://www.youtube.com/watch?v=mveWn-Fg0u0)
+- [Das Komplott - Wolfgang Eggert. Home-Office 2.0. 2024-09-19](https://www.youtube.com/watch?v=3s7E_JMfu6s)
+
+
+
+### videos 2025
+
+- [5D-Schach auf der SiKo - Im Gespräch mit Wolfgang Eggert. NuoFlix. 2025-02-14](https://www.youtube.com/watch?v=QMQp4zlWhYI)
+- [Q&A mit Wolfgang Eggert. NuoFlix. 2025-03-05](https://www.youtube.com/watch?v=Y853kbOQITA)
+
+
 ## siehe auch
 
 - https://d2.wikimannia.org/Wolfgang_Eggert
@@ -122,3 +162,4 @@ also das sieht so aus, als kontrolliert dieser verlag die website buecher-von-eg
 - https://www.psiram.com/de/index.php/Wolfgang_Eggert
 - https://www.muslim-markt.de/interview/2007/eggert.htm
 - https://www.nexus-magazin.de/artikel/autor/wolfgang-eggert - Interview mit Wolfgang Eggert 25.10.2007
+- [Steve Quayle - Dead Scientists](https://www.stevequayle.com/index.php?s=146)
