@@ -1,6 +1,10 @@
 https://www.reddit.com/r/conspiracy/comments/1prb1f9/wolfgang_eggert_1962_german_conspiracy_theorist/
 
-Wolfgang Eggert, *1962, German conspiracy theorist, missing since 2025
+update: "Sorry, this post has been removed by the moderators of r/conspiracy."
+
+<blockquote>
+
+# Wolfgang Eggert, *1962, German conspiracy theorist, missing since 2025
 
 his website [berlin911.com](http://web.archive.org/web/20250207104905/http://www.berlin911.com/) is offline since summer 2025. (last snapshot is from 2025-02-07)
 
@@ -19,3 +23,5 @@ worst case: he was killed by his enemies (CIA, Mossad, Rothschild, Rockefeller, 
 i have sent an [inquiry](https://github.com/milahu/wolfgang-eggert-1962-bis-2025/blob/main/melderegisterauskunft.antrag.txt) to the residents' registration office in Munich, maybe they can confirm his death.
 
 see also: [github.com/milahu/wolfgang-eggert-1962-bis-2025](https://github.com/milahu/wolfgang-eggert-1962-bis-2025)
+
+</blockquote>
