@@ -164,3 +164,12 @@ also das sieht so aus, als kontrolliert dieser verlag die website buecher-von-eg
 - https://www.muslim-markt.de/interview/2007/eggert.htm
 - https://www.nexus-magazin.de/artikel/autor/wolfgang-eggert - Interview mit Wolfgang Eggert 25.10.2007
 - [Steve Quayle - Dead Scientists](https://www.stevequayle.com/index.php?s=146)
+
+
+
+## mirrors
+
+- https://github.com/milahu/wolfgang-eggert-1962-bis-2025
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/wolfgang-eggert-1962-bis-2025
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/wolfgang-eggert-1962-bis-2025
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/wolfgang-eggert-1962-bis-2025
