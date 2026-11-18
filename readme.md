@@ -19,6 +19,11 @@ siehe auch: [github.com/milahu/darknet-git-hosting-services](https://github.com/
 
 - seine websites sind offline
   - verlag: offline seit 2017-09-15: [chronos-medien.de](http://web.archive.org/web/20170915091449/http://www.chronos-medien.de/)
+    - sein verlag "CHRONOS-MEDIEN-Vertrieb GmbH" wurde gelöscht 2024-01-02 ([northdata.de](https://www.northdata.de/CHRONOS-MEDIEN-Vertrieb%20GmbH,%20M%C3%BCnchen/HRB%20106760))
+      - letzter Jahresabschluss zum 31.12.2013
+      - eventuell alte Adresse: Schellingstr. 105 B, 80798 München
+        ([Google Maps](https://www.google.de/maps/place/Schellingstra%C3%9Fe+105B,+80798+M%C3%BCnchen-Maxvorstadt/@48.1527389,11.5642032,17z))
+        ([unternehmensauskunft.com](https://www.unternehmensauskunft.com/CHRONOSMEDIENVertrieb-GmbH-4108258.html))
   - homepage: offline seit 2025-02-07: [berlin911.com](http://web.archive.org/web/20250207104905/http://www.berlin911.com/)
 - seine email-adressen sind offline
   - `Wolfgang Eggert <gintfun@aol.com>` - zustellungsfehler
