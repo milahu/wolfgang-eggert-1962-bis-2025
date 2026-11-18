@@ -115,6 +115,7 @@ also das sieht so aus, als kontrolliert dieser verlag die website buecher-von-eg
 - https://www.youtube.com/results?search_query=Wolfgang+Eggert
 - https://odysee.com/$/search?q=Wolfgang%20Eggert
 - https://www.bitchute.com/search?query=Wolfgang+Eggert
+- https://www.youtube.com/playlist?list=PLFC9E01670B5CF785 - Wolfgang Eggert - Interview von NoTricks1
 
 
 
