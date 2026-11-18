@@ -154,6 +154,7 @@ also das sieht so aus, als kontrolliert dieser verlag die website buecher-von-eg
 
 - kein wikipedia eintrag: https://de.wikipedia.org/wiki/Wolfgang_Eggert
 - https://de.wikimannia.org/Wolfgang_Eggert
+- https://de.metapedia.org/wiki/Eggert,_Wolfgang
 - https://www.goodreads.com/author/list/983329.Wolfgang_Eggert
 - https://de.soc.politik.misc.narkive.com/bHruOjIK/wer-ist-wolfgang-eggert
 - https://studgenpol.blogspot.com/2017/01/das-ist-wirklich-wunderlich-wolfgang.html - Das ist wirklich wunderlich: Wolfgang Eggert sieht KEINEN katholischen Geheimvatikan
