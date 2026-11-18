@@ -153,7 +153,7 @@ also das sieht so aus, als kontrolliert dieser verlag die website buecher-von-eg
 ### videos 2025
 
 - [5D-Schach auf der SiKo - Im Gespräch mit Wolfgang Eggert. NuoFlix. 2025-02-14](https://www.youtube.com/watch?v=QMQp4zlWhYI)
-- [Q&A mit Wolfgang Eggert. NuoFlix. 2025-03-05](https://www.youtube.com/watch?v=Y853kbOQITA)
+- [Q&A mit Wolfgang Eggert. NuoFlix. 2025-03-05](interviews/2025-03-05.QNA.mit.Wolfgang.Eggert.NuoFlix.md)
 
 
 ## siehe auch
