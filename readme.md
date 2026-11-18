@@ -156,6 +156,29 @@ also das sieht so aus, als kontrolliert dieser verlag die website buecher-von-eg
 - [Q&A mit Wolfgang Eggert. NuoFlix. 2025-03-05](interviews/2025-03-05.QNA.mit.Wolfgang.Eggert.NuoFlix.md)
 
 
+
+## Geplante Bücher
+
+> vielleicht hat Wolfgang Eggert heimlich an einem neuen buch geschrieben
+
+Im Jahr 2025 wollte Wolfgang Eggert noch mehrere Bücher veröffentlichen:
+
+1. Islamisierung von Europa
+    - "Umvolkung", Bevölkerungsaustausch
+    - Vermutlich eine Fortsetzung von: Wolfgang Eggert - Das Islamisierungskomplott: Wer spielt gegen Europa? (2020)
+2. Geheimvatikan, zweite Auflage
+    - Finanzierung der Weltkriege
+    - bessere Zitate und Quellen als in der ersten Auflage
+3. Wir bauen ein autarkes Dorf
+    - Lösungsvorschlag zum Aufbau von einem autarken Dorf
+    - Basierend auf eigenen "Erfahrungen" mit einem gescheiterten Dorf-Projekt
+
+Quellen:
+
+- [Q&A mit Wolfgang Eggert. NuoFlix. 2025-03-05](interviews/2025-03-05.QNA.mit.Wolfgang.Eggert.NuoFlix.md)
+
+
+
 ## siehe auch
 
 - kein wikipedia eintrag: https://de.wikipedia.org/wiki/Wolfgang_Eggert
