@@ -36,7 +36,7 @@ siehe auch: [github.com/milahu/darknet-git-hosting-services](https://github.com/
   - interview 2025: [Q&A mit Wolfgang Eggert. NuoFlix. 2025-03-05](https://www.youtube.com/watch?v=Y853kbOQITA)
 - letztes buch: 2024-09-28
   - buch 2014: [Wolfgang Eggert - Die MH17-Falle (2014-12-01)](https://www.goodreads.com/book/show/113948389-die-mh17-falle)
-  - buch 2020: [Wolfgang Eggert - Das Islamisierungskomplott: Wer spielt gegen Europa? (2020-08-07)](https://www.goodreads.com/book/show/114875711-das-islamisierungskomplott)
+  - buch 2020: [Wolfgang Eggert - Das Islamisierungskomplott: Wer spielt gegen Europa? (2020-08-07)](https://github.com/milahu/wolfgang-eggert-das-islamisierungskomplott-2020)
     - hörbuch: [Wolfgang Eggert - Das Islamisierungskomplott](https://www.youtube.com/playlist?list=PLwf64LDx2DT7j0MVcVLHn9Y_RKP8zRGJ7)
   - buch 2024: [Wolfgang Eggert - Das Komplott (2024-09-28)](https://www.goodreads.com/book/show/220312672-das-komplott)
 
